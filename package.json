@@ -1,0 +1,7 @@
+{
+	"name": "openscad-lightsaber-belt-clip",
+	"description": "Lightsaber Belt Clip Assembly for OpenSCAD",
+	"dependencies": {
+		"bezier": "git@github.com:jramey88/openscad-bezier-lib.git"
+	}
+}
