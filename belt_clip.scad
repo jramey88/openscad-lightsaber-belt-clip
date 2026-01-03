@@ -288,7 +288,8 @@ module render_model(render_model_name){
     }else if(render_model_name=="belt_clip_face"){
         belt_clip_face();
     }else if(render_model_name=="belt_clip_spring"){
-        belt_clip_spring();
+        rotate([0, 90, 0])
+            belt_clip_spring();
     }else if(render_model_name=="belt_clip_body"){
         belt_clip_body();
     }else if(render_model_name=="belt_clip_hook"){

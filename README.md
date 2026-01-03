@@ -4,6 +4,16 @@ This is the belt clip assembly compatible with my lightsaber models in OpenSCAD.
 
 ![Screenshot of sample Bezier curve](screenshot.png)
 
+## Rendering STLs
+
+Install *node.js* and *npm*. Generate all of the STLs for the project:
+
+    npm run build
+
+... or render STLs for individual parts by passing the names of each part:
+
+    npm run build belt_clip_knob belt_clip_spring
+
 ## Printing
 
 This can be printed on an FDM (filament) 3D printer without any supports. This will also likely be printable in resin. Print between 0.08mm and 0.20mm layer heights.
