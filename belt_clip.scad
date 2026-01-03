@@ -1,4 +1,4 @@
-use <bezier.scad>
+use <node_modules/bezier/bezier.scad>
 
 gap = 0.25;
 

@@ -1,0 +1,13 @@
+{
+    "source": "belt_clip.scad",
+    "parts": [
+        "belt_clip_knob",
+        "belt_clip_face",
+        "belt_clip_spring",
+        "belt_clip_body",
+        "belt_clip_hook"
+    ],
+    "stl_prefix": "",
+    "max_threads": 10,
+    "render_dir": "renders"
+}
