@@ -6,6 +6,7 @@
 	},
 	"dependencies": {
 		"bezier": "git@github.com:jramey88/openscad-bezier-lib.git",
+		"openscad-build-manager": "git@github.com:jramey88/openscad-build-manager.git",
 		"is-wsl": "^3.1.0",
 		"tree-kill": "^1.2.2"
 	}
